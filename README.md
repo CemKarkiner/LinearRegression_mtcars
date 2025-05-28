@@ -1,20 +1,20 @@
-# Basit Doğrusal Regresyon - R ile mtcars Veri Kümesi Üzerinde Analiz
-Bu proje, R programlama dili kullanılarak yapılan basit doğrusal regresyon analizini içermektedir. mtcars veri kümesi kullanılarak beygir gücü (hp) ile mil başına galon (mpg) arasındaki doğrusal ilişki incelenmiştir.
+# Simple Linear Regression - Analysis on the mtcars Dataset with R
+This project involves a simple linear regression analysis using the R programming language. The relationship between horsepower (hp) and miles per gallon (mpg) is examined using the built-in mtcars dataset.
 
-## 🔍 İçerik
-Notebook, aşağıdaki adımları içermektedir:
+## 🔍 Contents
+The notebook includes the following steps:
 
- - mtcars veri kümesinin yüklenmesi
+- Loading the mtcars dataset
 
- - Değişkenler arası korelasyonun hesaplanması
+- Calculating the correlation between variables
 
- - Doğrusal regresyon modelinin kurulması
+- Building a linear regression model
 
- - Regresyon sonuçlarının yorumlanması
+- Interpreting the regression results
 
- - Grafik ile regresyon doğrusunun görselleştirilmesi
+- Visualizing the regression line with a plot
 
-## 🚀 Nasıl Çalıştırılır?
-R ortamınızda veya R destekli Jupyter Notebook ortamında .ipynb dosyasını açın.
+## 🚀 How to Run
+Open the .ipynb file in an R environment or in a Jupyter Notebook that supports R.
 
-Tüm hücreleri sırasıyla çalıştırarak analizi gerçekleştirin.
+Run all cells sequentially to perform the analysis.
